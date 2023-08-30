@@ -2,14 +2,14 @@
 
 string name = Console.ReadLine();
 
-Console.WriteLine("Hey" + name + "Were do you live?");
+Console.WriteLine("Hey " + name + " Were do you live?");
 
 string name2 = Console.ReadLine();
 
-Console.WriteLine("ok" + name2 + "got it, be more spesific");
+Console.WriteLine("ok " + name2 + " got it, be more spesific");
 
 string namee = Console.ReadLine();
 
-Console.WriteLine("ok" + namee + "thx for you info");
+Console.WriteLine("ok " + namee + " thx for you info");
 
 Console.ReadLine();
