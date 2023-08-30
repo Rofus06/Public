@@ -1,0 +1,15 @@
+C:\Users\filip.scherlund\Desktop\Test visual\Prog\22_luck\obj\Debug\net6.0\22_luck.csproj.AssemblyReference.cache
+C:\Users\filip.scherlund\Desktop\Test visual\Prog\22_luck\obj\Debug\net6.0\22_luck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip.scherlund\Desktop\Test visual\Prog\22_luck\obj\Debug\net6.0\22_luck.AssemblyInfoInputs.cache
+C:\Users\filip.scherlund\Desktop\Test visual\Prog\22_luck\obj\Debug\net6.0\22_luck.AssemblyInfo.cs
+C:\Users\filip.scherlund\Desktop\Test visual\Prog\22_luck\obj\Debug\net6.0\22_luck.csproj.CoreCompileInputs.cache
+C:\Users\filip.scherlund\Desktop\Test visual\Prog\22_luck\bin\Debug\net6.0\22_luck.exe
+C:\Users\filip.scherlund\Desktop\Test visual\Prog\22_luck\bin\Debug\net6.0\22_luck.deps.json
+C:\Users\filip.scherlund\Desktop\Test visual\Prog\22_luck\bin\Debug\net6.0\22_luck.runtimeconfig.json
+C:\Users\filip.scherlund\Desktop\Test visual\Prog\22_luck\bin\Debug\net6.0\22_luck.dll
+C:\Users\filip.scherlund\Desktop\Test visual\Prog\22_luck\bin\Debug\net6.0\22_luck.pdb
+C:\Users\filip.scherlund\Desktop\Test visual\Prog\22_luck\obj\Debug\net6.0\22_luck.dll
+C:\Users\filip.scherlund\Desktop\Test visual\Prog\22_luck\obj\Debug\net6.0\refint\22_luck.dll
+C:\Users\filip.scherlund\Desktop\Test visual\Prog\22_luck\obj\Debug\net6.0\22_luck.pdb
+C:\Users\filip.scherlund\Desktop\Test visual\Prog\22_luck\obj\Debug\net6.0\22_luck.genruntimeconfig.cache
+C:\Users\filip.scherlund\Desktop\Test visual\Prog\22_luck\obj\Debug\net6.0\ref\22_luck.dll
